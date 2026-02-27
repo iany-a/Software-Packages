@@ -1,0 +1,3 @@
+Name;Department;Month of birth
+Popescu Gigel;Accounting;December
+Ionescu Maria;IT;July
